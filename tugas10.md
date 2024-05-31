@@ -10,7 +10,7 @@
 
 ## 1. browser mailtrap
 
-![Alt text](screenshot/tugas10/Screenshot%202024-05-18%20161435.png)
+![Alt text](screenshot/tugas10/Screenshot%202024-05-18%20161435.png)php artisan vendor:publish --
 
 ## 1. browser register
 
